@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 linters:
   ErbSafety:
@@ -11,3 +12,18 @@ linters:
         Enabled: false
       Metrics/LineLength:
         Enabled: false
+=======
+---
+linters:
+  ErbSafety:
+    enabled: true
+  Rubocop:
+    enabled: true
+    rubocop_config:
+      inherit_from:
+        - .rubocop.yml
+      Style/FrozenStringLiteralComment:
+        Enabled: false
+      Metrics/LineLength:
+        Enabled: false
+>>>>>>> 1a9b6e3e7e7f36210145d3bd4f13865f9fbd64d7

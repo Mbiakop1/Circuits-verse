@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "extends": "airbnb-base",
     "globals": {
@@ -14,3 +15,21 @@
     }
 
 }
+=======
+{
+    "extends": "airbnb-base",
+    "globals": {
+    },
+    "rules": {
+        "indent": ["error", 4],
+        "no-undef": 0,
+        "max-len": 0,
+        "no-var": 0,
+        "no-plusplus": 0,
+        "vars-on-top": 0,
+        "no-unused-vars": 0,
+        "max-lines-per-function": 0
+    }
+
+}
+>>>>>>> 1a9b6e3e7e7f36210145d3bd4f13865f9fbd64d7

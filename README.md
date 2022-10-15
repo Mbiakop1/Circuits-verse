@@ -1,75 +1,23 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<img src="/app/assets/images/cvlogo.svg" alt="The CircuitVerse logo" width="736"/> </br></br>
+[![Financial Contributors on Open Collective](https://opencollective.com/CircuitVerse/all/badge.svg?label=Financial+Contributors&style=for-the-badge&logo=open+collective)](https://opencollective.com/CircuitVerse) 
+[![CircleCI Status](https://img.shields.io/circleci/build/github/CircuitVerse/CircuitVerse/master?label=circleci&style=for-the-badge&logo=circleci)](https://circleci.com/gh/CircuitVerse/CircuitVerse)
+[![Coveralls Coverage Status](https://img.shields.io/coveralls/github/CircuitVerse/CircuitVerse/master?label=coveralls&style=for-the-badge&logo=coveralls)](https://coveralls.io/github/CircuitVerse/CircuitVerse?branch=master)
+-----
+[CircuitVerse](https://circuitverse.org) is a free, open-source platform which allows users to construct digital logic circuits online. We also offer the [Interactive Book](https://learn.circuitverse.org) which teaches users on the fundamentals of modern, digital circuits. Please also see our [documentation](https://docs.circuitverse.org) or [GitHub Wiki](https://github.com/CircuitVerse/CircuitVerse/wiki/).
 
-# Project Name
+## Community
+We would love to hear from you! We communicate on Slack:
 
-> Description of the project.
+[![Slack](https://img.shields.io/badge/chat-on_slack-purple.svg?style=for-the-badge&logo=slack)](https://join.slack.com/t/circuitverse-team/shared_invite/zt-p6bgler9-~8vWvsKmL9lZeYg4pP9hwQ)
 
+## Code of Conduct
+We follow the [Code of Conduct](code-of-conduct.md) of the [CircuitVerse](https://circuitverse.org) Community.
 
-## Built With
+## Setup
+See [`SETUP.md`](SETUP.md) for more information on setting up CircuitVerse.
 
-- Major languages
-- Frameworks
-- Technologies used
+## Contributing
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information on contributing to CircuitVerse.
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, and remove sections that don't apply. For example: delete the testing section if the current project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+## License
+This project is licensed under the [MIT License](LICENSE).

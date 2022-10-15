@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 spec/
 .git/
 docs/
 tmp/
 test/
+=======
+spec/
+.git/
+docs/
+tmp/
+test/
+>>>>>>> 1a9b6e3e7e7f36210145d3bd4f13865f9fbd64d7
