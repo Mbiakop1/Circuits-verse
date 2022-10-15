@@ -160,7 +160,7 @@ GEM
       sprockets-rails
       will_paginate
     concurrent-ruby (1.1.10)
-    connection_pool (2.2.5)
+    connection_pool (2.3.0)
     countries (4.2.3)
       i18n_data (~> 0.16.0)
       sixarm_ruby_unaccent (~> 1.1)
@@ -566,10 +566,10 @@ GEM
     sexp_processor (4.16.0)
     shoulda-matchers (5.1.0)
       activesupport (>= 5.2.0)
-    sidekiq (6.5.1)
-      connection_pool (>= 2.2.2)
+    sidekiq (6.5.7)
+      connection_pool (>= 2.2.5)
       rack (~> 2.0)
-      redis (>= 4.2.0)
+      redis (>= 4.5.0, < 5)
     simple_discussion (1.3.0)
       font-awesome-sass (>= 5.13.0)
       friendly_id (>= 5.2.0)
