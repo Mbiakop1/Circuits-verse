@@ -171,7 +171,7 @@ gem "hairtrigger", "~> 0.2.25"
 # Used for rate limiting
 gem "rack-attack"
 
-gem "jsbundling-rails", "~> 1.0"
+gem "jsbundling-rails", "~> 1.1"
 
 gem "sassc-rails"
 gem "stimulus-rails", "~> 1.0"
